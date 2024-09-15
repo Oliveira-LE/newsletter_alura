@@ -1,4 +1,4 @@
-Projeto desenvolvido no curso: Tailwind CSS: estilizando a sua página com classes utilitárias - Alura
+Projeto desenvolvido durante o curso Tailwind CSS: estilizando a sua página com classes utilitárias - Alura
 
 Alura Newsletter - Página de Inscrição
 
@@ -10,6 +10,5 @@ Tecnologias Utilizadas:
 
     HTML: Estrutura básica da página.
     CSS: Estilização da página, com o uso extensivo do Tailwind CSS.
-    JavaScript: (Opcional) Pode ser adicionado para funcionalidades mais complexas, como validação de formulário ou integração com serviços externos.
-    
-  
+       
+  <img src="newsletter_alura.jpg">
